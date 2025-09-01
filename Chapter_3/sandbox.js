@@ -140,6 +140,6 @@ if(true){
         // var test = 'hello'; // it does not follow the block scope and that is why is not used
     }
 }
-console.log('outside code block: ', age, test);
+// console.log('outside code block: ', age, test);
 
 
